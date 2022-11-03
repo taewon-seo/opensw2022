@@ -1,4 +1,5 @@
 #include "myfunc.h"
+#include <stdio.h>
 
 int main() {
     // call functions 3 times...
