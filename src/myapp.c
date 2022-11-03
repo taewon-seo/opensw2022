@@ -3,7 +3,9 @@
 int main() {
     foo();
     goo();
-    zoo();
+    for (int i=0; i<13; i++){
+        zoo();
+    }
     
     return 0;
 }
